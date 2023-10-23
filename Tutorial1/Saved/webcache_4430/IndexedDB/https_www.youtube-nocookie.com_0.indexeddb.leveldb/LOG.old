@@ -1,0 +1,8 @@
+2023/10/20-07:57:58.948 7864 Reusing MANIFEST C:/Users/foxyt/OneDrive/Documents/GitHub/Tutorial1/Tutorial1/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/20-07:57:58.949 7864 Recovering log #4
+2023/10/20-07:57:58.949 7864 Reusing old log C:/Users/foxyt/OneDrive/Documents/GitHub/Tutorial1/Tutorial1/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2023/10/20-07:59:39.199 3df8 Level-0 table #8: started
+2023/10/20-07:59:39.200 3df8 Level-0 table #8: 0 bytes OK
+2023/10/20-07:59:39.203 3df8 Delete type=0 #4
+2023/10/20-07:59:39.213 3df8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/10/20-07:59:39.213 3df8 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

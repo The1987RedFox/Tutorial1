@@ -1,0 +1,15 @@
+2023/10/20-07:59:40.323 568c Reusing MANIFEST C:/Users/foxyt/OneDrive/Documents/GitHub/Tutorial1/Tutorial1/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/20-07:59:40.324 568c Recovering log #7
+2023/10/20-07:59:40.325 568c Reusing old log C:/Users/foxyt/OneDrive/Documents/GitHub/Tutorial1/Tutorial1/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000007.log 
+2023/10/20-08:17:50.619 568c Level-0 table #11: started
+2023/10/20-08:17:50.626 568c Level-0 table #11: 190 bytes OK
+2023/10/20-08:17:50.628 568c Delete type=0 #7
+2023/10/20-08:17:50.628 568c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/10/20-08:17:50.628 568c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 58 : 1
+2023/10/20-08:17:50.628 568c Compacting 1@1 + 1@2 files
+2023/10/20-08:17:50.636 568c Generated table #12@1: 18 keys, 534 bytes
+2023/10/20-08:17:50.636 568c Compacted 1@1 + 1@2 files => 534 bytes
+2023/10/20-08:17:50.637 568c compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/20-08:17:50.638 568c Delete type=2 #5
+2023/10/20-08:17:50.638 568c Delete type=2 #11
+2023/10/20-08:17:50.638 568c Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 58 : 1 .. (end); will stop at (end)
